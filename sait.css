@@ -1,0 +1,137 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+header {
+    background-color: #222;
+    padding: 15px 0;
+}
+
+.logo {
+    margin-left: 20px;
+    align-items: center;
+    display: flex;
+}
+
+.logotip {
+    width: 370px;
+    height: 80px;
+}
+
+.navig {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+nav ul {
+    margin-top: 20px;
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+
+nav ul li a {
+    color: #ccc;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s;
+    font-size: 25px;
+}
+
+nav ul li a:hover {
+    color: #66ccff;
+}
+
+.container {
+    width: 90%;
+    max-width: 2000px;
+    margin: auto;
+}
+
+main {
+    padding: 40px 0;
+}
+
+
+
+.hero-info img.morf {
+    width: 700px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #66ccff;
+    float: right;
+    margin-right: 65px;
+    margin-top: 100px;
+}
+
+.hero-info h2 {
+    font-size: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 8px;
+    margin-bottom: 20px;
+    color: gray;
+}
+
+.hero-info h2 img {
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    vertical-align: middle;
+}
+
+.hero-info h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: skyblue;
+    font-style: italic;
+}
+
+.hero-info p {
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 800px;
+    text-align: justify;
+}
+
+.hero-info p img {
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-right: 6px;
+}
+
+.difficulty {
+    color: white;
+    font-size: 20px;
+}
+
+.diamond {
+    margin-right: 5px;
+}
+
+.taliki {
+    width: 122px;
+}
+
+.aspect {
+    width: 128px;
+}
+
+footer {
+    background-color: #222;
+    text-align: center;
+    padding: 15px 0;
+    color: white;
+    font-size: 14px;
+}
+
+
+
+
+
