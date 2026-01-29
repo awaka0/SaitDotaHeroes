@@ -59,11 +59,12 @@ main {
     width: 700px;
     height: 350px;
     border-radius: 10px;
-    box-shadow: 0 0 15px #66ccff;
+    box-shadow: 0 0 15px #ec8106;
     float: right;
     margin-right: 65px;
     margin-top: 100px;
 }
+
 
 .hero-info h2 {
     font-size: 25px;
@@ -86,7 +87,7 @@ main {
 .hero-info h1 {
     font-size: 60px;
     margin-bottom: 20px;
-    color: skyblue;
+    color: rgb(226, 127, 13);
     font-style: italic;
 }
 

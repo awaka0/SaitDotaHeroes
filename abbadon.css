@@ -55,6 +55,8 @@ main {
     padding: 40px 0;
 }
 
+
+
 .hero-info img.morf {
     width: 700px;
     height: 350px;
@@ -86,7 +88,7 @@ main {
 .hero-info h1 {
     font-size: 60px;
     margin-bottom: 20px;
-    color: skyblue;
+    color: rgb(45, 93, 163);
     font-style: italic;
 }
 
